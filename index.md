@@ -1,4 +1,4 @@
-# Wecome to my site.
+# Wecome to my site
 
 My name is Kimberly Kreiss. 
 
