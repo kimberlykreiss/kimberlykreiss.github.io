@@ -1,3 +1,8 @@
+
+layout: default
+theme: jekyll-theme-slate
+title: Hello!
+---
 #About Me 
 
 I currently live in Washington, D.C. where I work as a research assistant. I am from a small beach town in New Jersey, and I graduated from Rutgers in May 2017 with an economics major and minors in mathematics and English. 
