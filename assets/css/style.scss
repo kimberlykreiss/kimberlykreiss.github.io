@@ -12,3 +12,16 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
+nav.top-nav {
+   display: flex; 
+   justify-content: flex-end; 
+}
+
+nav.top-nav a {
+    color: #ffffff;
+}
+
+nav.top-nav li {
+    font-size: 18px
+}
