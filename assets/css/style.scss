@@ -25,3 +25,15 @@ nav.top-nav a {
 nav.top-nav li {
     font-size: 18px
 }
+
+.avatar {
+    display: flex; 
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;    
+}
+
+.avatar img {
+    width: 230px;
+    height: 230px;
+}
