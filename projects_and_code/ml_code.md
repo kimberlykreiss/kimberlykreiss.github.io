@@ -38,5 +38,5 @@ for i in demographic_variables:
         print('\n')
 ```
 
-![](demographic_info.png)
+
 
