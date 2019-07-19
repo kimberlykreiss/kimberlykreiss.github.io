@@ -92,8 +92,9 @@ print(df['NAME_CONTRACT_TYPE'].value_counts(normalize=True).sort_index()*100)
 print('\n')
 print('Default rate')
 print(df['TARGET'].value_counts(normalize=True).sort_index()*100)
-      
-      
+```    
+Again, the output is below:
+```
 Types of loans
 Cash loans         90.478715
 Revolving loans     9.521285
@@ -105,3 +106,6 @@ Default rate
 1     8.072882
 Name: TARGET, dtype: float64
 ```
+Over 90% of the loans are cash loans, and the default rate is hovering around 8%. I did not include information about the balance of the loan, since the loans in this dataset happen in several different countries. Thus, several different currencies are captured in this variable, and without normalizing to one currency in particular, a comparison of dollar amounts of these loans doesn't tell us much information. 
+
+One challenge with this dataset is that the classes are extremely unbalanced. A dataset with two balanced classes would be evenly divided between the two classes. Instead, our two classes (1-default, 0-not default) are split 92% and 8%, respectively. This is a common problem in machine learning, and we should exercise a degree of caution when interpreting accuracy statistics. For example, if we wrote a model that accurately predicted *every* instance of a client not defaulting on a loan, but could not predict a *single* instance of a client defaulting, we would still get a model with 92% accuracy. 
