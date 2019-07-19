@@ -8,7 +8,7 @@ This document will cover some of the challenges of this particular problem and w
 
 **The data** 
 
-The dataset includes several features including loan type, demographic information about the client, annual income of the client, and the outcome--whether the client defaulted or not. Below is code to import numpy and pandas and read in the data. 
+The dataset includes several features including loan type, demographic information about the client, credit history of the client, and the outcome--whether the client defaulted or not. Below is code to import numpy and pandas and read in the data. 
 
 ```
 import numpy as np
