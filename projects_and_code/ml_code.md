@@ -38,5 +38,50 @@ for i in demographic_variables:
         print('\n')
 ```
 
+The output from this code is below: 
+```
+CODE_GENDER
+F      65.834393
+M      34.164306
+XNA     0.001301
+Name: CODE_GENDER, dtype: float64
 
+
+AGE
+(20.468, 30.238]    15.220919
+(30.238, 39.959]    26.076466
+(39.959, 49.679]    24.279131
+(49.679, 59.4]      21.525734
+(59.4, 69.121]      12.897750
+Name: AGE, dtype: float64
+
+
+NAME_EDUCATION_TYPE
+Secondary / secondary special    71.018923
+Higher education                 24.344820
+Incomplete higher                 3.341994
+Lower secondary                   1.240931
+Academic degree                   0.053331
+Name: NAME_EDUCATION_TYPE, dtype: float64
+
+
+NAME_FAMILY_STATUS
+Married                 63.878040
+Single / not married    14.778008
+Civil marriage           9.682580
+Separated                6.429038
+Widow                    5.231683
+Unknown                  0.000650
+Name: NAME_FAMILY_STATUS, dtype: float64
+
+
+NAME_HOUSING_TYPE
+House / apartment      88.734387
+With parents            4.825844
+Municipal apartment     3.636618
+Rented apartment        1.587260
+Office apartment        0.851026
+Co-op apartment         0.364865
+Name: NAME_HOUSING_TYPE, dtype: float64
+```
 
