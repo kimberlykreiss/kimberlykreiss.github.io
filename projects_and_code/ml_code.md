@@ -84,4 +84,24 @@ Office apartment        0.851026
 Co-op apartment         0.364865
 Name: NAME_HOUSING_TYPE, dtype: float64
 ```
+Interestingly, roughly 2/3 of the sample identifies as female. Most live in a house or apartment and around a quarter of the sample has higher education. Almost 2/3 of the sample is married and most live in a house or apartment. Next, I'm interested in seeing what type of loans clients typically get and how common it is to default. 
 
+```
+print('Types of loans')
+print(df['NAME_CONTRACT_TYPE'].value_counts(normalize=True).sort_index()*100)
+print('\n')
+print('Default rate')
+print(df['TARGET'].value_counts(normalize=True).sort_index()*100)
+      
+      
+Types of loans
+Cash loans         90.478715
+Revolving loans     9.521285
+Name: NAME_CONTRACT_TYPE, dtype: float64
+
+
+Default rate
+0    91.927118
+1     8.072882
+Name: TARGET, dtype: float64
+```
