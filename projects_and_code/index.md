@@ -1,5 +1,5 @@
 ## Projects and Code    
-My recent work has focused on mapping and geospatial analysis, text mining and natural language processing techniques, and applying machine learning techniques to ecomomic problems. I do most of my work in R or python. 
+My recent work has focused on geospatial analysis, text mining and natural language processing techniques, and applications of machine learning. I do most of my work in R or python. 
 
 
 **Links to code and projects:**
