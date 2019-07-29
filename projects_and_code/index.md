@@ -1,4 +1,3 @@
-## Projects and Code    
 My recent work has focused on geospatial analysis, text mining and natural language processing techniques, and applications of machine learning. I do most of my work in R or python. 
 
 
