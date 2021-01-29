@@ -14,8 +14,10 @@ menu_settings:
       url: '/about'
     - title: 'Projects'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
+    # - title: 'Blog'
+    #   url: '/blog/'
+    - title: 'CV'
+      url: https://kimberlykreiss.github.io/website_cv.pdf
     - title: 'Contact'
       url: '/contact'
 
