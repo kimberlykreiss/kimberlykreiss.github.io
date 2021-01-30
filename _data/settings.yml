@@ -11,9 +11,9 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'About'
-      url: '/about'
-    - title: 'Projects'
       url: '/'
+    - title: 'Projects'
+      url: '/about'
     # - title: 'Blog'
     #   url: '/blog/'
     - title: 'CV'
@@ -171,7 +171,7 @@ font_settings:
 
 advanced_settings:
   ajax_loading: true
-  analytics_code: ""
+  analytics_code: "UA-133653004-1"
   custom_styles: ""
   header_js: ""
   footer_js: ""
