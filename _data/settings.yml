@@ -2,6 +2,7 @@ basic_settings:
   site_title: Kim Kreiss
   site_tagline: Data Scientist <br> Washington, D.C.
   favicon_image: /images/headshot.jpeg
+  description: Data Scientist
 
 
 header_settings:
