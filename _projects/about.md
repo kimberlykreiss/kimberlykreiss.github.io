@@ -1,10 +1,11 @@
 ---
-title: About Me
-subtitle: I am currently working as a Data Scientist in the Federal Reserve Board's Division of Consumer and Community Affairs (DCCA). My section uses data and research to inform the Board about the economic conditions facing low- and moderate-income communities.
+title: 'About Me'
+#subtitle: I am currently working as a Data Scientist in the Federal Reserve Board's Division of Consumer and Community Affairs (DCCA). My section #uses data and research to inform the Board about the economic conditions facing low- and moderate-income communities.
 description: Data Scientist
-#featured_image: /images/demo/demo-landscape.jpg
+featured_image: /images/demo/demo-landscape.jpg
 ---
 
+I am currently working as a Data Scientist in the Federal Reserve Board's Division of Consumer and Community Affairs (DCCA). My section uses data and research to inform the Board about the economic conditions facing low- and moderate-income communities.
 ## Education
 
 I graduated Phi Beta Kappa from Rutgers University-New Brunswick with high honors from the Economics Department in 2017. I majored in economics and minored in mathematics and English. I wrote my senior thesis under Professor Anne Morrison Piehl on how the entry of ridesharing services into an area affects arrest rates. I am a clarinetist and played in several ensembles during my time in college including a clarinet ensemble, concert band, and symphony band. I was president of Chess Club in college, and I am a USCF-rated chess player.
