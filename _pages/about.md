@@ -4,9 +4,6 @@ subtitle: I am currently working as a Data Scientist in the Federal Reserve Boar
 description: Data Scientist
 #featured_image: /images/demo/demo-landscape.jpg
 ---
-My career interests lie at the intersection of economics, data science, and law. I am interested in using data and empirical research to solve public policy problems.
-
-
 
 ## Education
 
