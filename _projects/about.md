@@ -9,7 +9,7 @@ I am currently working as a Data Scientist in the Federal Reserve Board's Divisi
 
 I graduated Phi Beta Kappa from Rutgers University-New Brunswick with high honors from the Economics Department in 2017. I majored in economics and minored in mathematics and English. I wrote my senior thesis under Professor Anne Morrison Piehl on how the entry of ridesharing services into an area affects arrest rates. I am a clarinetist and played in several ensembles during my time in college including a clarinet ensemble, concert band, and symphony band. I was president of Chess Club in college, and I am a USCF-rated chess player.
 
-While working at the Federal Reserve, I have taken graduate-level coursework in data science, geography, and economics at the George Washington University, and most recently, The New School.
+While working at the Federal Reserve, I have taken graduate-level coursework in data science, geography, and economics.
 
 ## Current Role
 
