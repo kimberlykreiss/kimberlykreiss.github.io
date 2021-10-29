@@ -17,8 +17,8 @@ menu_settings:
     #   url: '/'
     # - title: 'Blog'
     #   url: '/blog/'
-    - title: 'CV'
-      url: https://kimberlykreiss.github.io/website_cv.pdf
+    # - title: 'CV'
+    #  url: https://kimberlykreiss.github.io/website_cv.pdf
     - title: 'Contact'
       url: '/contact'
 
