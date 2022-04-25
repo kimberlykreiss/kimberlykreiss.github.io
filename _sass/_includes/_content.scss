@@ -31,9 +31,9 @@
 			max-width: 65%;
 		}
 	}
-	
+
 	h1 {
-		
+
 		@include mq(tabletp) {
 			white-space: pre-line;
 		}
@@ -45,7 +45,7 @@
 }
 
 .content-wrap {
-	
+
 }
 
 .single {
@@ -130,7 +130,7 @@
 	ul, ol {
 		ul, ol {
 			max-width: 100%;
-			padding-left: 25px;
+			padding-left: 5px;
 		}
 	}
 
@@ -216,7 +216,7 @@
 				padding: 20px;
 			}
 		}
-		
+
 		tbody tr {
 			background: $background-color;
 
@@ -281,7 +281,7 @@
 					text-align: center;
 					color: $text-light-color;
 				}
-				
+
 				p {
 					display: inline;
 					max-width: 100%;

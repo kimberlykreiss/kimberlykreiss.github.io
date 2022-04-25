@@ -13,8 +13,8 @@ menu_settings:
   menu_items:
     - title: 'Research'
       url: '/research'
-    # - title: 'Projects'
-    #   url: '/'
+    - title: 'Speaking'
+      url: '/speaking'
     # - title: 'Blog'
     #   url: '/blog/'
     # - title: 'CV'

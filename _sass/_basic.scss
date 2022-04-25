@@ -388,7 +388,7 @@ section {
 	}
 
 	@include mq(laptop) {
-		
+
 	}
 }
 
@@ -441,9 +441,9 @@ section {
 .buy-cta__text {
 	position: absolute;
 	top: 0;
-	right: 40px;
+	right: 10px;
 	background: #dc5b5d;
-	padding: 14px 10px 13px 17px;
+	padding: 10px 10px 10px 10px;
 	color: #fff;
 	font-size: 13px;
 	line-height: 1;
