@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Kim Kreiss
-  site_tagline: Data Scientist <br> Washington, D.C.
+  site_tagline: MPA Student<br> Princeton University
   favicon_image: /images/headshot.jpeg
   description: Data Scientist
 
@@ -146,9 +146,9 @@ font_settings:
     letter_spacing: 0
     line_height: 1.6
   h6:
-    small_size: 17
-    medium_size: 20
-    large_size: 20
+    small_size: 12
+    medium_size: 12
+    large_size: 12
     weight: 500
     letter_spacing: 0
     line_height: 1.6
