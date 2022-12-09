@@ -7,11 +7,10 @@ featured_image: '/images/demo/demo-square.jpg'
 ---
 My career interests lie at the intersection of social policy, data science, and economics. Below are some policy research projects I worked:
 &nbsp;
+
 - Kreiss, Kimberly M. (2021). "Bank Branches and COVID-19: Where are Banks Closing Branches during the Pandemic?," FEDS Notes. Washington: Board of Governors of the Federal Reserve System, December 17, 2021. [(link)](https://doi.org/10.17016/2380-7172.3027).  
 &nbsp;
 - "How Much Could U.S. States Gain by closing Racial and Gender Gaps in the Labor Market?" with Bina Shrimali, Naomi Cytron, Vanessa Palmer, Eileen Divringi, Nisha Sutaria, Tyler Boesch, KimEng Ky, and Ana Kent. Feds Communities Post. 2021. [(link)](https://fedcommunities.org/data/closethegaps/)  
-&nbsp;
-- "Asking Consumers about their Finances." Bureau of Labor Statistics, Government Advances in Statistical Programming Workshop. September 2019. [(link)](https://kimberlykreiss.github.io/GASP_slides.pdf)  
 &nbsp;
 - "Shedding Light on Our Economic and Financial Lives," with Alex Durante, Jeff Larrimore, Ellen Merry, Christina Park, and Claudia Sahm. FEDS Notes. 2018. [(link)](https://www.federalreserve.gov/econres/notes/feds-notes/shedding-light-on-our-economic-and-financial-lives-20180522.htm)  
 
