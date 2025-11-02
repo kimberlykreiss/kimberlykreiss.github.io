@@ -14,21 +14,25 @@
 	}
 
 	@include mq(tabletl) {
-		padding: 35px $grid-spacing 0;
+		padding: 35px $grid-spacing 0; // revert right padding to default
 	}
 
 	@include mq(laptop) {
-		padding: 53px $grid-spacing 0;
+		padding: 53px $grid-spacing 0; // revert right padding to default
 	}
 
 	.wrap {
 
 		@include mq(tabletl) {
-			max-width: 70%;
+			max-width: 85%;
+			margin-left: 0;
+			margin-right: auto;
 		}
 
 		@include mq(laptop) {
-			max-width: 65%;
+			max-width: 85%;
+			margin-left: 0;
+			margin-right: auto;
 		}
 	}
 
@@ -59,11 +63,11 @@
 	}
 
 	@include mq(tabletl) {
-		padding: 40px $grid-spacing;
+		padding: 40px $grid-spacing; // revert right padding to default
 	}
 
 	@include mq(laptop) {
-		padding: 60px $grid-spacing;
+		padding: 60px $grid-spacing; // revert right padding to default
 	}
 
 	h1, h2, h3, h4, h5, h6, p, ul, ol {
@@ -74,11 +78,15 @@
 		}
 
 		@include mq(tabletl) {
-			max-width: 70%;
+			max-width: 85%;
+			margin-left: 0;
+			margin-right: auto;
 		}
 
 		@include mq(laptop) {
-			max-width: 65%;
+			max-width: 85%;
+			margin-left: 0;
+			margin-right: auto;
 		}
 	}
 
@@ -92,11 +100,15 @@
 		}
 
 		@include mq(tabletl) {
-			max-width: 70%;
+			max-width: 100%;
+			margin-left: 0;
+			margin-right: auto;
 		}
 
 		@include mq(laptop) {
-			max-width: 65%;
+			max-width: 100%;
+			margin-left: 0;
+			margin-right: auto;
 		}
 	}
 
@@ -134,6 +146,24 @@
 		}
 	}
 
+	// Add vertical spacing between list items (site-wide)
+	ul > li,
+	ol > li {
+		margin-bottom: 10px;
+	}
+
+    // Ensure top-level lists on content pages have consistent bullets/indent
+    > .wrap > ul,
+    > .wrap > ol {
+        list-style-position: outside;
+        padding-left: 1.25em;
+    }
+
+// Extra spacing between News bullets
+.news-list li {
+    margin-bottom: 12px;
+}
+
 	.highlighter-rouge,
 	table {
 		margin: 20px auto;
@@ -144,14 +174,33 @@
 		}
 
 		@include mq(tabletl) {
-			max-width: 70%;
+			max-width: 100%;
+			margin-left: 0;
+			margin-right: auto;
 		}
 
 		@include mq(laptop) {
 			margin: 40px auto;
-			max-width: 65%;
+			max-width: 100%;
+			margin-left: 0;
+			margin-right: auto;
 		}
 	}
+
+	// Ensure bullets render inside tables
+	table ul {
+		list-style: disc outside;
+		margin: 0;
+		padding-left: 1.25em;
+	}
+
+	table ol {
+		list-style: decimal outside;
+		margin: 0;
+		padding-left: 1.25em;
+	}
+
+	table li { margin: 0.25em 0; }
 
 	.highlight {
 		display: block;
@@ -331,4 +380,57 @@
 		width: 100%;
 		height: 100%;
 	}
+}
+
+// Two-column helper for markdown content
+.two-col {
+    display: block;
+    gap: 20px;
+
+    @include mq(tabletl) {
+        display: flex;
+        gap: 40px;
+    }
+
+    > div {
+        @include mq(tabletl) {
+            flex: 1 1 0;
+        }
+    }
+}
+
+// Education list styling
+.edu-list {
+    list-style: none;
+    padding-left: 0;
+    font-size: $p-medium; // bigger than normal body text
+
+    @include mq(laptop) {
+        font-size: $p-large;
+    }
+
+    > li {
+        margin-bottom: 10px; // space between items
+    }
+
+    // Only apply the cap to top-level items
+    > li::before {
+        content: '🎓';
+        display: inline-block;
+        margin-right: 8px;
+    }
+
+    // Nested details use regular bullets and slightly smaller font
+    ul {
+        list-style: disc outside;
+        padding-left: 2.75em; // increase indent for nested bullets
+        margin-top: 6px;
+        font-size: inherit; // match parent size
+    }
+}
+
+// Force nested Education bullets to indent (override generic nested list rule)
+.single .edu-list ul {
+    padding-left: 2.25em !important;
+    list-style: disc outside;
 }

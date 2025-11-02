@@ -1,8 +1,7 @@
 ---
-layout: default
-title: MPA Student at Princeton University
-description: MPA Student at Princeton University
-featured_image: /images/social.jpg
+title: 'Projects'
+subtitle: 'Portfolio of my work'
+featured_image: '/images/demo/demo-square.jpg'
 ---
 
 <section class="portfolio">
@@ -35,3 +34,4 @@ featured_image: /images/social.jpg
 	</div>
 
 </section>
+

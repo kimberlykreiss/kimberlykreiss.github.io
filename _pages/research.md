@@ -4,23 +4,29 @@ title: 'Research Overview'
 #date: 2018-06-30 00:00:00
 #subtitle: This page gives an overview of my research experience, future research interests, and applications to policy.
 featured_image: '/images/demo/demo-square.jpg'
+hide_title: true
 ---
-My career interests lie at the intersection of social policy, data science, and economics. Below are some policy research projects I worked:
-&nbsp;
+#### Research and Policy Writing
 
-- Kreiss, Kimberly M. (2021). "Bank Branches and COVID-19: Where are Banks Closing Branches during the Pandemic?," FEDS Notes. Washington: Board of Governors of the Federal Reserve System, December 17, 2021. [(link)](https://doi.org/10.17016/2380-7172.3027).  
-&nbsp;
-- "How Much Could U.S. States Gain by closing Racial and Gender Gaps in the Labor Market?" with Bina Shrimali, Naomi Cytron, Vanessa Palmer, Eileen Divringi, Nisha Sutaria, Tyler Boesch, KimEng Ky, and Ana Kent. Feds Communities Post. 2021. [(link)](https://fedcommunities.org/data/closethegaps/)  
-&nbsp;
-- "Shedding Light on Our Economic and Financial Lives," with Alex Durante, Jeff Larrimore, Ellen Merry, Christina Park, and Claudia Sahm. FEDS Notes. 2018. [(link)](https://www.federalreserve.gov/econres/notes/feds-notes/shedding-light-on-our-economic-and-financial-lives-20180522.htm)  
+Below are links to my published research, research notes, and contributions to government reports and policy publications:
 
+- Kreiss, Kimberly & Šimuliūnaitė, G. (2025). "Sustainable Mobility Survey Analysis," Kurk Lietuvai & Lietuvos Respublikos Susisiekimo Ministerija. [(link)](https://data.kurklt.lt/wp-content/uploads/2025/04/Survey-Analysis-Report.pdf)
+- Kreiss, Kimberly & Survilaitė, G. (2025). "Applying and Institutionalizing Technology Foresight for Lithuania's Smart Specialisation Strategy," Kurk Lietuvai & Inovacijų Agentūra. [(link)](https://data.kurklt.lt/wp-content/uploads/2024/11/Applying-and-Institutionalizing-Technology-Foresight-for-Lithuanias-Smart-Specialisation-Strategy.pdf)
+- Kreiss, Kimberly M. (2021). "Bank Branches and COVID-19: Where are Banks Closing Branches during the Pandemic?," FEDS Notes. Washington: Board of Governors of the Federal Reserve System, December 17, 2021. [(link)](https://doi.org/10.17016/2380-7172.3027)
+- "How Much Could U.S. States Gain by closing Racial and Gender Gaps in the Labor Market?" with Bina Shrimali, Naomi Cytron, Vanessa Palmer, Eileen Divringi, Nisha Sutaria, Tyler Boesch, KimEng Ky, and Ana Kent. Feds Communities Post. 2021. [(link)](https://fedcommunities.org/data/closethegaps/)
+- "Shedding Light on Our Economic and Financial Lives," with Alex Durante, Jeff Larrimore, Ellen Merry, Christina Park, and Claudia Sahm. FEDS Notes. 2018. [(link)](https://www.federalreserve.gov/econres/notes/feds-notes/shedding-light-on-our-economic-and-financial-lives-20180522.htm)
 
+#### Contributions to Government Reports
 
-<!--
-During my time as a research assistant at the Federal Reserve Board, I assisted economists in my section with their research projects and worked on my own research. In my work, I contributed to the Federal Reserve's Survey of Household Economics and Decisionmaking, an annual survey of U.S. adults, and an accompanying [Report on the Economic Well-Being of U.S. Households](https://www.federalreserve.gov/publications/files/2018-report-economic-well-being-us-households-201905.pdf). I wrote a [box](https://www.federalreserve.gov/publications/2019-economic-well-being-of-us-households-in-2018-economic-well-being.htm#xbox1-textanalysisofself-assessedwel-49224777) in the chapter on economic wellbeing in the 2019 report. I used text mining techniques to analyze open-ended write-in responses in the survey. Additionally, in the 2020 report, I was responsible for writing the [student loan chapter](https://www.federalreserve.gov/publications/2020-economic-well-being-of-us-households-in-2019-student-loans-other-education-debt.htm), and incorporated additional analysis on student loan debt and financial wellbeing.
++ "Report on the Economic Well-Being of U.S. Households in 2019, Featuring Supplemental Data from April 2020." Board of Governors of the Federal Reserve System. 2020. [(link)](https://www.federalreserve.gov/publications/2020-economic-well-being-of-us-households-in-2019-preface.htm)
 
-As a research assistant, I supported Board economists and other researchers with their research projects. I have worked on projects focusing on the effect of tax policy on wages, economic recovery in places with many credit-constrained borrowers, and the gig economy and women’s retirement.
++ "Report on the Economic Well-Being of U.S. Households in 2018." Board of Governors of the Federal Reserve System. 2019. [(link)](https://www.federalreserve.gov/publications/2019-economic-well-being-of-us-households-in-2018-preface.htm)
 
-I have also led my own independent research projects, which I continue to do in my current role as a Data Scientist. As an example, in one research project, I use text mining and natural language processing techniques to extract information from an open-ended response question in this year's Survey of Household Economics and Decisionmaking. I used regression, natural language processing, and machine learning techniques to extract words and phrases most predictive of a respondent's economic wellbeing. I presented this work at the Bureau of Labor Statistics' Government Advances in Statistical Programming (GASP) workshop, which you can find [here](https://kimberlykreiss.github.io/GASP_slides.pdf). Most recently I have led research investigating where bank branches have closed during COVID-19 and discussed implications for consumer financial services access.
++ "Report on the Economic Well-Being of U.S. Households in 2017." Board of Governors of the Federal Reserve System. 2018. [(link)](https://www.federalreserve.gov/publications/2018-economic-well-being-of-us-households-in-2017-preface.htm)
 
-In addition to the GASP workshop, I've presented my work at various conferences and events including the [DC R Conference](https://kimberlykreiss.github.io/DCR.pdf) and internal Board events including the data showcase. I have also spoken on panels focused on careers in data science and public policy through Rutgers University and Data Community DC. -->
+#### Projects 
++ *For Trenton, By Trenton - Building Excellence at the James Kerney Campus.* Capstone Project for Princeton University's Master's in Public Affairs. 
+  + Capstone project working with Mercer County Community College to provide recommendations to help implement their economic and workforce development goals at the James Kerney Campus in Trenton.
+
++ *Flowing Forward: A Reproducible Workflow for Studying Groundwater Changes in the Colorado River Basin and Beyond*. Project from University of Washington's Data Science For Social Good Summer Fellowship Program. 2023. [(link)](https://uwescience.github.io/DSSG2023-Groundwater/) 
+  + We developed an accessible and open data science workflow for making estimates of groundwater change publicly available. We use data from NASA’s Gravity Recovery And Climate Experiment (GRACE) mission – a complex dataset requiring significant technical expertise. Our workflow allows users to download, process, merge, and interpret complex hydrological data, including GRACE data, to derive estimates of groundwater anomalies over time. This tool can enable interdisciplinary research and public policy decisions reflective of large-scale and long-term groundwater dynamics.

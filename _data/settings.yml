@@ -1,7 +1,7 @@
 basic_settings:
-  site_title: Kim Kreiss
-  site_tagline: MPA Student<br> Princeton University
-  favicon_image: /images/headshot.jpeg
+  site_title: Kimberly Kreiss
+  site_tagline: DPhil Student<br> University of Oxford
+  favicon_image: /images/Princeton Winter headshot.jpeg
   description: Data Scientist
 
 
@@ -11,9 +11,15 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Research'
+    - title: 'About Me'
+      url: '/about-me'
+    - title: 'News'
+      url: '/news'
+    #- title: 'Projects'
+     # url: '/projects'
+    - title: 'Research & Projects'
       url: '/research'
-    - title: 'Speaking'
+    - title: 'Speaking & Conference Talks'
       url: '/speaking'
     # - title: 'Blog'
     #   url: '/blog/'
@@ -81,12 +87,12 @@ font_settings:
   bold_weight: 500
   site_title:
     small_size: 25
-    medium_size: 35
+    medium_size: 30
     large_size: 45
     weight: 500
     letter_spacing: -0.02
   site_tagline:
-    small_size: 16
+    small_size: 14
     medium_size: 18
     large_size: 20
     weight: 300
@@ -94,8 +100,8 @@ font_settings:
     line_height: 1.5
   menu:
     small_size: 30
-    medium_size: 15
-    large_size: 16
+    medium_size: 18
+    large_size: 20
     weight: 500
     letter_spacing: 0
   grid_item_title:
@@ -153,9 +159,9 @@ font_settings:
     letter_spacing: 0
     line_height: 1.6
   p:
-    small_size: 16
-    medium_size: 18
-    large_size: 20
+    small_size: 14
+    medium_size: 16
+    large_size: 18
     weight: 300
     letter_spacing: 0
     line_height: 1.6
