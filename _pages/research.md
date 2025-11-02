@@ -25,7 +25,7 @@ Below are links to my published research, research notes, and contributions to g
 + "Report on the Economic Well-Being of U.S. Households in 2017." Board of Governors of the Federal Reserve System. 2018. [(link)](https://www.federalreserve.gov/publications/2018-economic-well-being-of-us-households-in-2017-preface.htm)
 
 #### Projects 
-+ *For Trenton, By Trenton - Building Excellence at the James Kerney Campus.* Capstone Project for Princeton University's Master's in Public Affairs. 
++ *For Trenton, By Trenton - Building Excellence at the James Kerney Campus. *Capstone Project for Princeton University's Master's in Public Affairs.* 2024. [(PDF)]({{ site.baseurl }}/capstone_project_SPIA.pdf) 
   + Capstone project working with Mercer County Community College to provide recommendations to help implement their economic and workforce development goals at the James Kerney Campus in Trenton.
 
 + *Flowing Forward: A Reproducible Workflow for Studying Groundwater Changes in the Colorado River Basin and Beyond*. Project from University of Washington's Data Science For Social Good Summer Fellowship Program. 2023. [(link)](https://uwescience.github.io/DSSG2023-Groundwater/) 
