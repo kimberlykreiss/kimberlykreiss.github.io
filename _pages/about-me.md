@@ -49,7 +49,7 @@ Previously, I earned an **MPA in Economics & Public Policy** from **Princeton Un
 
 #### Expertise & tools
 
-- **Causal inference:** difference-in-differences (including staggered adoption), event studies, synthetic control, RDD; diagnostics and sensitivity analysis.  
+- **Causal inference:** difference-in-differences, event studies, synthetic control, RDD; diagnostics and sensitivity analysis.  
 - **Text & profiles data:** NLP for skill extraction/normalisation, embeddings, topic/task mapping, record linkage, and measurement.  
 - **Data engineering:** reproducible R/Python projects, versioned datasets, SQL (Snowflake), Git, cloud-friendly workflows.  
 - **Communication:** clear documentation, visualisation & dashboarding, policy briefs, research papers, and technical appendices.
