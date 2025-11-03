@@ -29,7 +29,7 @@ I am a DPhil student in Social Data Science and Shirley Scholar at the [Oxford I
 </li>
 <li>Master’s in Public Affairs, <b>Princeton University</b> — 2024
   <ul>
-    <li>Concentration in Economics & Public Policy</li>
+    <li>Concentration in Economics & Public Policy, Graduate Certificate in Statistics & Machine Learning</li>
     <li>Karl E. Prickett Fellow in Public and International Affairs ('23 & '24)</li>
   </ul>
 </li>

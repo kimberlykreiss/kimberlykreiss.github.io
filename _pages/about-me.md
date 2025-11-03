@@ -27,7 +27,7 @@ Previously, I earned an **MPA in Economics & Public Policy** from **Princeton Un
 *DPhil Student & Shirley Scholar* (2025–present)  
 
 **Kurk Lietuvai (Create Lithuania) — Investuok Lietuvoje (Invest Lithuania)**  
-*Project Manager (2024-2025*  
+*Project Manager (2024-2025)*  
 +  1-year professional program to bring top Lithuanian, diaspora, and foreign talent to apply best practices in two 6-month long projects in the Lithuanian public sector 
 +  First project with Innovation Agency on apply Technology Foresight to Lithuania's Smart Specialisation Strategy 
 +  Second project with the Transport Ministry to create a sustainable mobility index for Lithuanian municipalities using a novel national survey and new data from the inaugural Sustainable Mobility Data Platform
