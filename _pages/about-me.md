@@ -40,9 +40,10 @@ Previously, I earned an **MPA in Economics & Public Policy** from **Princeton Un
 **Federal Reserve Board — Consumer & Community Affairs**  
 *Data Scientist(2019–2022)* 
 *Research Assistant(2017-2019)*
++ implemented automated ETL pipelines that merge millions of credit‑bureau, employment, and housing data for dashboards on small dollar mortgage lending and conditions in low‑ and moderate‑income communities.
 + Designed, implemented and analyzed results from the Survey of Household Economics and Decisionmaking (SHED), lead data analyst for CRA modernisation analytics, and geospatial projects. 
-+ Produced policy memos, data products, and led independent research
-+ Provide research support for economists on projects related to coal decline and credit outcomes and corporate tax policy on hiring
++ Lead the development of an internal R package for annual production process of SHED report
++ Produced policy memos, data products, and independent research; provide research support to economist research projects
 
 ---
 
